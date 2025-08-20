@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "usuario": "jcord",
+    "password": "1234",
+    "nombre": "Javier Cordero",
+    "saldo": 150000,
+    "movimientos": [
+      { "tipo": "ingreso", "monto": 50000, "descripcion": "Sueldo" },
+      { "tipo": "egreso", "monto": 10000, "descripcion": "Compra en mercado" }
+    ]
+  },
+  {
+    "id": 2,
+    "usuario": "marias",
+    "password": "abcd",
+    "nombre": "María Suárez",
+    "saldo": 85000,
+    "movimientos": [
+      { "tipo": "ingreso", "monto": 85000, "descripcion": "Transferencia" }
+    ]
+  }
+]
